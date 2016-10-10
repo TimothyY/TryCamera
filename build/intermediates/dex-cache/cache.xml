@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_57b39144e27129907ae27444255742115044b615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_1dee6289f8451f0e537be698f8bcb6930c364c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="32bb0d1fd55f7e77586da192a073b82ea5d464b9">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1e36b101b3b0edcc2b1aca4844a9589d60d3199e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3ee918cf06849bf378986156b84d9cc59121eff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a70be5423f42ca3ea57ae59be85be44eb45cf6d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_47aa833a1fc37786ff46eefc99c9972ac7db43e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_5e29049423e5ac56cd0746273e39ffbd56489dba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee2708a9c0516e58ec052169364c693fae68af3c">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\pub.devrel-easypermissions-0.2.0_817958e29a739a6a8c3be44f6d0e91e2fc9ef989\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_2bbed72876d0e3b89e480c48f7944c69a29253bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_fef1b3dedee3348fa61f840784ff37ebfe1a877a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_40697b0dd57e17969d40b2ac8b5de3aeb68e54ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_ba99635f833ef259d3a04c62a74b93d67df39886\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c25af88cbff89c608df4195e1b19a79195ae7032">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4de561a3022a5e87c6b4ccbee20f9ede435b466d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a667b91cd78d1c7fe72dd0472869fbd72c8caf83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidSdk\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_ef64bebca155e0ad4cfcf74c6c7d12e091552dfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_ac9e89692280e492cdffbf85b58e57e4323b8419\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_201a85c5198149df66e85aa83b10611c669e2693\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\root\Desktop\TryCamera\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_17f7caa2580286ec38e7df765d90ade612cc37c6\classes.dex" />
+    </item>
+
+</items>

@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="32bb0d1fd55f7e77586da192a073b82ea5d464b9">
+        sha1="968eddfb1a6938bbd77ce62c34846d49b7b296fa">
         <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1e36b101b3b0edcc2b1aca4844a9589d60d3199e\classes.dex" />
     </item>
     <item
@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="c25af88cbff89c608df4195e1b19a79195ae7032">
+        sha1="5311ab082a42f9c2872641e27224d5d72571a33c">
         <dex dex="C:\Users\root\Desktop\TryCamera\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4de561a3022a5e87c6b4ccbee20f9ede435b466d\classes.dex" />
     </item>
     <item
